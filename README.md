@@ -7,7 +7,6 @@
 
 - 💬 Mendan Flutter yoki Firebase haqida bemalol so'rashingiz mumkin
 
-- 📫 Menga quyidagi manzillar orqali bog'laning: **samandar@example.com**
 
 - ⚡ Qiziqarli fakt: Men foydalanuvchilar uchun qulay, chiroyli va samarali ilovalar yaratishni yaxshi ko‘raman
 
@@ -26,20 +25,6 @@
 
 ---
 
-### 📊 GitHub statistikasi:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samandarchik&show_icons=true&theme=radical" alt="Samandarchik's GitHub Stats" />
-</p>
-
----
-
-### 📱 Mening Flutter loyihalarim:
-- [MyFlutterApp](https://github.com/Samandarchik/MyFlutterApp)
-- [QuizApp](https://github.com/Samandarchik/QuizApp)
-- [Location Tracker](https://github.com/Samandarchik/location_tracker_flutter)
-
----
 
 ### 💬 Ijtimoiy tarmoqlar:
 
